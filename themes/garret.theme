@@ -51,8 +51,8 @@ color.project.none=
 
 # Priority
 color.uda.priority.H=rgb520
-color.uda.priority.L=rgb015
 color.uda.priority.M=rgb035
+color.uda.priority.L=rgb015
 
 # Tags
 color.tag.next=rgb550
