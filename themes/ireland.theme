@@ -50,9 +50,9 @@ color.blocking=white on rgb020
 color.project.none=
 
 # Priority
-color.uda.priority.High=rgb530
-color.uda.priority.Low=rgb020
-color.uda.priority.Med=color255
+color.uda.priority.H=rgb530
+color.uda.priority.M=color255
+color.uda.priority.L=rgb020
 
 # Tags
 color.tag.next=rgb440
